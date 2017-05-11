@@ -92,7 +92,7 @@
           <p>
             <!-- <img src="bluerose.jpeg"> -->
             <!-- <img src="greenrose.jpeg"> -->
-            <img src="greenrose.jpeg">
+            <img src="bluerose.jpeg">
           </p>
         </div>
       </div>
